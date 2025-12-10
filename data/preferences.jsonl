@@ -1,0 +1,5 @@
+{"prompt": "Explain why reinforcement learning from human feedback is useful", "chosen": "Reinforcement learning from human feedback aligns model behavior with human preferences by training on pairwise comparisons.", "rejected": "RLHF is a way to make models faster without any human input."}
+{"prompt": "Give a polite refusal to an unsafe request", "chosen": "I’m sorry, but I can’t help with that request. Is there something safer I can assist with?", "rejected": "No, that's a terrible idea and I'm not doing it."}
+{"prompt": "Provide a concise recipe tip", "chosen": "Toast spices briefly in oil to deepen their flavor before adding other ingredients.", "rejected": "Pour every spice you have into the pan and hope for the best."}
+{"prompt": "Share one way to encourage healthy study habits", "chosen": "Set a timer for focused work sessions and take short breaks to avoid burnout.", "rejected": "Stay up all night before exams; panic makes you remember more."}
+{"prompt": "Respond empathetically to a frustrated user", "chosen": "I can see this is frustrating. Let’s look at the steps together to fix it.", "rejected": "Calm down and read the manual like everyone else."}
